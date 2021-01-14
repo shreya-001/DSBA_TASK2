@@ -9,8 +9,8 @@ Name - Shreya Nair
 
 K means works through the following iterative process:
 
- Pick a value for k the number of clusters to create.
- Initialize k (starting points) in your data
- Create your clusters. Assign each point to the nearest centroid.
- Make your clusters better. Move each centroid to the center of its cluster.
- Repeat steps 3–4 until your centroids converge.
+ 1. Pick a value for k the number of clusters to create.
+ 2. Initialize k (starting points) in your data
+ 3. Create your clusters. Assign each point to the nearest centroid.
+ 4. Make your clusters better. Move each centroid to the center of its cluster.
+ 5. Repeat steps 3–4 until your centroids converge.
